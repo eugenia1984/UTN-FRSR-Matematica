@@ -6,7 +6,7 @@ Temas:
 
 ---
 
-##  :start: Clase 1 (04APR) Teoría y presentación de la materia
+##  :star: Clase 1 (04APR) Teoría y presentación de la materia
 
 ### Informatizar la matemática
 
