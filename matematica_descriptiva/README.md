@@ -10,7 +10,7 @@ Temas:
 
 ### Informatizar la matemática
 
-Conceptor: 
+Concepto: 
 
 TEOREMA DE BAYES – ESTADISTICA – INTELIGENCIA ARTIFICIAL
 
